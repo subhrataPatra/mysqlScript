@@ -1,0 +1,2 @@
+# mysqlScript
+mysql practice codes
